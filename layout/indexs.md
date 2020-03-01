@@ -3,11 +3,13 @@
 ## 个人简介
 
 * 2015年加入编程、开发圈子；
+
 * 目前就职于 南京本土某大型"互联网"企业
     
 ## 其他博客
 
 * CSDN的博客地址(已不更新)：https://blog.csdn.net/Simba_cheng
+
 * GitHub：https://github.com/Simba-cheng
 
 ## 网络信息
@@ -23,6 +25,10 @@
 到目前为止已经写了<code class="article_number"></code>篇文章， 共<code class="site_word_count"></code>字。
 
 本站访问人数：<code class="site_uv"></code>人次 ，访问量：<code class="site_pv"></code>次
+
+# 其他
+
+11月22、十月初九
 
 ## 博客平台
 
